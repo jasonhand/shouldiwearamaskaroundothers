@@ -8,3 +8,8 @@ Ask again!  :D
 
 
 #shouldiwearamaskaroundothers
+
+To do:
+
+- [ ] Add reload button with text that says "Ask again?"
+- [ ] Add javascript to randomize agent used each time.

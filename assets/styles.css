@@ -34,7 +34,7 @@ h1 {
 h4 {
   font-size: 40px;
   text-align: center;
-  color: #f7f7ffff;
+  color: 	#daf8e3;
   
 }
 
@@ -42,7 +42,10 @@ h2 {
   font-size: 75px;
 }
 
-a:hover {
-  transition: color .9s;
-  color: purple;
+a {
+  color: 	#005582;
   }
+
+a:hover {
+  color: #97ebdb;
+}

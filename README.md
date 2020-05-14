@@ -14,3 +14,7 @@ To do:
 - [ ] Add reload button with text that says "Ask again?"
 - [ ] Add javascript to randomize agent used each time.
 - [ ] Add links to additional projects (w/ shortlinks)
+- [ ] Change background color
+- [ ] Move agent location to center
+- [ ] Discuss need for "Should I Wear A Mask Around Others"
+- [ ] Include link to Clippy.js

@@ -18,3 +18,8 @@ To do:
 - [ ] Move agent location to center
 - [ ] Discuss need for "Should I Wear A Mask Around Others"
 - [ ] Include link to Clippy.js
+
+
+Resources:
+
+[Clippy.JS](https://www.smore.com/clippy-js)
